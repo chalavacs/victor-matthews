@@ -36,7 +36,7 @@ body {
 .centralContent {
   position: absolute;
   width: 100vw;
-  height: 50vh;
+  height: 70vh;
   top: 10rem;
   right: 0;
 }
@@ -44,15 +44,15 @@ body {
 .textContent {
   position: absolute;
   left: 0;
-  bottom: -10%;
+  bottom: 0;
   color: #fff;
   text-align: center;
   width: 100%;
 }
 
 .textContent h1 {
-  font-size: 66px;
-  letter-spacing: 2px;
+  font-size: 30px;
+  letter-spacing: 1px;
 }
 
 .centralShapes {
